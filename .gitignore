@@ -1,0 +1,4 @@
+# python venv
+box/
+*.pyc
+__pycache__/
