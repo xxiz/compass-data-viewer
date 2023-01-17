@@ -1,7 +1,7 @@
 import requests, os, json, datetime
 
-TRANSLINK_API_KEY = os.environ.get('TRANSLINK_API_KEY') # 'huRuH8mxQp2Ig93W2aSV'
-GOOGLE_MAPS_API_KEY = os.environ.get('GOOGLE_MAPS_API_KEY') # 'AIzaSyC7LRPaCcBmk9QXbsUl6OrVtDwfH1asS90'
+TRANSLINK_API_KEY = os.environ.get('TRANSLINK_API_KEY')
+GOOGLE_MAPS_API_KEY = os.environ.get('GOOGLE_MAPS_API_KEY')
 
 if not os.path.exists('cache'):
     os.makedirs('cache')
