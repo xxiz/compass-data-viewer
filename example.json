@@ -1,0 +1,960 @@
+[
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.28122, 
+        "lng": -123.098307
+      }, 
+      "id": 52713, 
+      "location": "EB E HASTINGS ST FS MAIN ST--, VANCOUVER", 
+      "name": "EB E HASTINGS ST FS MAIN ST--", 
+      "raw": {
+        "AtStreet": "MAIN ST", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.28122, 
+        "Longitude": -123.098307, 
+        "Name": "EB E HASTINGS ST FS MAIN ST--", 
+        "OnStreet": "E HASTINGS ST", 
+        "Routes": "R5", 
+        "StopNo": 52713, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 15, 2023 at 06:55 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.219428, 
+        "lng": -123.090815
+      }, 
+      "id": 60551, 
+      "location": "NB FRASER ST FS E 56 AVE, VANCOUVER", 
+      "name": "NB FRASER ST FS E 56 AVE", 
+      "raw": {
+        "AtStreet": "E 56 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.219428, 
+        "Longitude": -123.090815, 
+        "Name": "NB FRASER ST FS E 56 AVE", 
+        "OnStreet": "FRASER ST", 
+        "Routes": "008, N8", 
+        "StopNo": 60551, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 15, 2023 at 06:23 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.232478, 
+        "lng": -123.090705
+      }, 
+      "id": 50790, 
+      "location": "SB FRASER ST FS E 41 AVE, VANCOUVER", 
+      "name": "SB FRASER ST FS E 41 AVE", 
+      "raw": {
+        "AtStreet": "E 41 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.232478, 
+        "Longitude": -123.090705, 
+        "Name": "SB FRASER ST FS E 41 AVE", 
+        "OnStreet": "FRASER ST", 
+        "Routes": "008, N8", 
+        "StopNo": 50790, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 15, 2023 at 05:11 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.232967, 
+        "lng": -123.101913
+      }, 
+      "id": 50253, 
+      "location": "EB E 41 AVE NS MAIN ST, VANCOUVER", 
+      "name": "EB E 41 AVE NS MAIN ST", 
+      "raw": {
+        "AtStreet": "MAIN ST", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.232967, 
+        "Longitude": -123.101913, 
+        "Name": "EB E 41 AVE NS MAIN ST", 
+        "OnStreet": "E 41 AVE", 
+        "Routes": "R4", 
+        "StopNo": 50253, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 15, 2023 at 05:07 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.233207, 
+        "lng": -123.102082
+      }, 
+      "id": 50156, 
+      "location": "WB E 41 AVE FS MAIN ST, VANCOUVER", 
+      "name": "WB E 41 AVE FS MAIN ST", 
+      "raw": {
+        "AtStreet": "MAIN ST", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.233207, 
+        "Longitude": -123.102082, 
+        "Name": "WB E 41 AVE FS MAIN ST", 
+        "OnStreet": "E 41 AVE", 
+        "Routes": "041", 
+        "StopNo": 50156, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 15, 2023 at 03:25 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.225975, 
+        "lng": -123.10147
+      }, 
+      "id": 50151, 
+      "location": "NB MAIN ST FS E 49 AVE, VANCOUVER", 
+      "name": "NB MAIN ST FS E 49 AVE", 
+      "raw": {
+        "AtStreet": "E 49 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.225975, 
+        "Longitude": -123.10147, 
+        "Name": "NB MAIN ST FS E 49 AVE", 
+        "OnStreet": "MAIN ST", 
+        "Routes": "003", 
+        "StopNo": 50151, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 15, 2023 at 03:22 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.219428, 
+        "lng": -123.090815
+      }, 
+      "id": 60551, 
+      "location": "NB FRASER ST FS E 56 AVE, VANCOUVER", 
+      "name": "NB FRASER ST FS E 56 AVE", 
+      "raw": {
+        "AtStreet": "E 56 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.219428, 
+        "Longitude": -123.090815, 
+        "Name": "NB FRASER ST FS E 56 AVE", 
+        "OnStreet": "FRASER ST", 
+        "Routes": "008, N8", 
+        "StopNo": 60551, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 15, 2023 at 03:08 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.228897, 
+        "lng": -123.090762
+      }, 
+      "id": 50792, 
+      "location": "SB FRASER ST FS E 45 AVE, VANCOUVER", 
+      "name": "SB FRASER ST FS E 45 AVE", 
+      "raw": {
+        "AtStreet": "E 45 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.228897, 
+        "Longitude": -123.090762, 
+        "Name": "SB FRASER ST FS E 45 AVE", 
+        "OnStreet": "FRASER ST", 
+        "Routes": "008, N8", 
+        "StopNo": 50792, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Fri, January 13, 2023 at 10:26 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.237907, 
+        "lng": -123.031047
+      }, 
+      "id": 51787, 
+      "location": "JOYCE STN BAY 4, VANCOUVER", 
+      "name": "JOYCE STN BAY 4", 
+      "raw": {
+        "AtStreet": "BAY 4", 
+        "BayNo": "4", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.237907, 
+        "Longitude": -123.031047, 
+        "Name": "JOYCE STN BAY 4", 
+        "OnStreet": "JOYCE STN", 
+        "Routes": "R4", 
+        "StopNo": 51787, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Fri, January 13, 2023 at 10:00 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.281014, 
+        "lng": -123.029969
+      }, 
+      "id": 50954, 
+      "location": "EB E HASTINGS ST FS CASSIAR ST, VANCOUVER", 
+      "name": "EB E HASTINGS ST FS CASSIAR ST", 
+      "raw": {
+        "AtStreet": "CASSIAR ST", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.281014, 
+        "Longitude": -123.029969, 
+        "Name": "EB E HASTINGS ST FS CASSIAR ST", 
+        "OnStreet": "E HASTINGS ST", 
+        "Routes": "014, 028, 130, N35", 
+        "StopNo": 50954, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Fri, January 13, 2023 at 08:27 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.238709, 
+        "lng": -123.032702
+      }, 
+      "id": 51671, 
+      "location": "JOYCE STN BAY 2, VANCOUVER", 
+      "name": "JOYCE STN BAY 2", 
+      "raw": {
+        "AtStreet": "BAY 2", 
+        "BayNo": "2", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.238709, 
+        "Longitude": -123.032702, 
+        "Name": "JOYCE STN BAY 2", 
+        "OnStreet": "JOYCE STN", 
+        "Routes": "028", 
+        "StopNo": 51671, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Fri, January 13, 2023 at 05:18 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.232598, 
+        "lng": -123.076419
+      }, 
+      "id": 50649, 
+      "location": "EB E 41 AVE FS KNIGHT ST, VANCOUVER", 
+      "name": "EB E 41 AVE FS KNIGHT ST", 
+      "raw": {
+        "AtStreet": "KNIGHT ST", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.232598, 
+        "Longitude": -123.076419, 
+        "Name": "EB E 41 AVE FS KNIGHT ST", 
+        "OnStreet": "E 41 AVE", 
+        "Routes": "041, R4", 
+        "StopNo": 50649, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Fri, January 13, 2023 at 04:59 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.225766, 
+        "lng": -123.090643
+      }, 
+      "id": 50827, 
+      "location": "NB FRASER ST FS E 49 AVE, VANCOUVER", 
+      "name": "NB FRASER ST FS E 49 AVE", 
+      "raw": {
+        "AtStreet": "E 49 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.225766, 
+        "Longitude": -123.090643, 
+        "Name": "NB FRASER ST FS E 49 AVE", 
+        "OnStreet": "FRASER ST", 
+        "Routes": "008, N8", 
+        "StopNo": 50827, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Fri, January 13, 2023 at 04:50 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.226034, 
+        "lng": -123.004152
+      }, 
+      "id": 60211, 
+      "location": "METROTOWN STN BAY 11, BURNABY", 
+      "name": "METROTOWN STN BAY 11", 
+      "raw": {
+        "AtStreet": "BAY 11", 
+        "BayNo": "11", 
+        "City": "BURNABY", 
+        "Distance": -1, 
+        "Latitude": 49.226034, 
+        "Longitude": -123.004152, 
+        "Name": "METROTOWN STN BAY 11", 
+        "OnStreet": "METROTOWN STATION", 
+        "Routes": "049", 
+        "StopNo": 60211, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Wed, January 11, 2023 at 08:09 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.225406, 
+        "lng": -123.090264
+      }, 
+      "id": 51975, 
+      "location": "EB E 49 AVE FS FRASER ST, VANCOUVER", 
+      "name": "EB E 49 AVE FS FRASER ST", 
+      "raw": {
+        "AtStreet": "FRASER ST", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.225406, 
+        "Longitude": -123.090264, 
+        "Name": "EB E 49 AVE FS FRASER ST", 
+        "OnStreet": "E 49 AVE", 
+        "Routes": "049", 
+        "StopNo": 51975, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Wed, January 11, 2023 at 06:07 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.232735, 
+        "lng": -123.101636
+      }, 
+      "id": 59041, 
+      "location": "SB MAIN ST FS E 41 AVE, VANCOUVER", 
+      "name": "SB MAIN ST FS E 41 AVE", 
+      "raw": {
+        "AtStreet": "E 41 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.232735, 
+        "Longitude": -123.101636, 
+        "Name": "SB MAIN ST FS E 41 AVE", 
+        "OnStreet": "MAIN ST", 
+        "Routes": "003", 
+        "StopNo": 59041, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 08, 2023 at 06:27 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.226473, 
+        "lng": -123.116241
+      }, 
+      "id": 50999, 
+      "location": "LANGARA-49TH STN BAY 1, VANCOUVER", 
+      "name": "LANGARA-49TH STN BAY 1", 
+      "raw": {
+        "AtStreet": "BAY 1", 
+        "BayNo": "1", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.226473, 
+        "Longitude": -123.116241, 
+        "Name": "LANGARA-49TH STN BAY 1", 
+        "OnStreet": "LANGARA-49TH STN", 
+        "Routes": "015, N15", 
+        "StopNo": 50999, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 08, 2023 at 02:52 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.225535, 
+        "lng": -123.091289
+      }, 
+      "id": 52027, 
+      "location": "WB E 49 AVE FS FRASER ST, VANCOUVER", 
+      "name": "WB E 49 AVE FS FRASER ST", 
+      "raw": {
+        "AtStreet": "FRASER ST", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.225535, 
+        "Longitude": -123.091289, 
+        "Name": "WB E 49 AVE FS FRASER ST", 
+        "OnStreet": "E 49 AVE", 
+        "Routes": "049", 
+        "StopNo": 52027, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 08, 2023 at 02:46 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.219428, 
+        "lng": -123.090815
+      }, 
+      "id": 60551, 
+      "location": "NB FRASER ST FS E 56 AVE, VANCOUVER", 
+      "name": "NB FRASER ST FS E 56 AVE", 
+      "raw": {
+        "AtStreet": "E 56 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.219428, 
+        "Longitude": -123.090815, 
+        "Name": "NB FRASER ST FS E 56 AVE", 
+        "OnStreet": "FRASER ST", 
+        "Routes": "008, N8", 
+        "StopNo": 60551, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 08, 2023 at 02:38 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.230719, 
+        "lng": -123.090713
+      }, 
+      "id": 50791, 
+      "location": "SB FRASER ST FS E 43 AVE, VANCOUVER", 
+      "name": "SB FRASER ST FS E 43 AVE", 
+      "raw": {
+        "AtStreet": "E 43 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.230719, 
+        "Longitude": -123.090713, 
+        "Name": "SB FRASER ST FS E 43 AVE", 
+        "OnStreet": "FRASER ST", 
+        "Routes": "008, N8", 
+        "StopNo": 50791, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 08, 2023 at 11:07 AM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.234685, 
+        "lng": -123.194154
+      }, 
+      "id": 51888, 
+      "location": "EB W 41 AVE NS CROWN ST--, VANCOUVER", 
+      "name": "EB W 41 AVE NS CROWN ST--", 
+      "raw": {
+        "AtStreet": "CROWN ST", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.234685, 
+        "Longitude": -123.194154, 
+        "Name": "EB W 41 AVE NS CROWN ST--", 
+        "OnStreet": "W 41 AVE", 
+        "Routes": "041, 049", 
+        "StopNo": 51888, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 08, 2023 at 10:27 AM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.225733, 
+        "lng": -123.102131
+      }, 
+      "id": 52030, 
+      "location": "WB E 49 AVE FS MAIN ST, VANCOUVER", 
+      "name": "WB E 49 AVE FS MAIN ST", 
+      "raw": {
+        "AtStreet": "MAIN ST", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.225733, 
+        "Longitude": -123.102131, 
+        "Name": "WB E 49 AVE FS MAIN ST", 
+        "OnStreet": "E 49 AVE", 
+        "Routes": "049", 
+        "StopNo": 52030, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 08, 2023 at 09:46 AM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.227099, 
+        "lng": -123.090813
+      }, 
+      "id": 50793, 
+      "location": "SB FRASER ST FS E 47 AVE, VANCOUVER", 
+      "name": "SB FRASER ST FS E 47 AVE", 
+      "raw": {
+        "AtStreet": "E 47 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.227099, 
+        "Longitude": -123.090813, 
+        "Name": "SB FRASER ST FS E 47 AVE", 
+        "OnStreet": "FRASER ST", 
+        "Routes": "008, N8", 
+        "StopNo": 50793, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sat, January 07, 2023 at 01:16 AM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.23344, 
+        "lng": -123.116867
+      }, 
+      "id": 50136, 
+      "location": "OAKRIDGE-41ST AVE STN BAY 2, VANCOUVER", 
+      "name": "OAKRIDGE-41ST AVE STN BAY 2", 
+      "raw": {
+        "AtStreet": "BAY 2", 
+        "BayNo": "2", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.23344, 
+        "Longitude": -123.116867, 
+        "Name": "OAKRIDGE-41ST AVE STN BAY 2", 
+        "OnStreet": "OAKRIDGE-41ST AVE STN", 
+        "Routes": "R4", 
+        "StopNo": 50136, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sat, January 07, 2023 at 01:02 AM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.2331553, 
+        "lng": -123.1166421
+      }, 
+      "name": "Oakridge-41st Stn"
+    }, 
+    "timestamp": "Sat, January 07, 2023 at 12:58 AM", 
+    "type": "location"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.2855667, 
+        "lng": -123.1115473
+      }, 
+      "name": "Waterfront Stn"
+    }, 
+    "timestamp": "Sat, January 07, 2023 at 12:37 AM", 
+    "type": "location"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.276811, 
+        "lng": -123.124629
+      }, 
+      "id": 51004, 
+      "location": "NB SEYMOUR ST FS DAVIE ST, VANCOUVER", 
+      "name": "NB SEYMOUR ST FS DAVIE ST", 
+      "raw": {
+        "AtStreet": "DAVIE ST", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.276811, 
+        "Longitude": -123.124629, 
+        "Name": "NB SEYMOUR ST FS DAVIE ST", 
+        "OnStreet": "SEYMOUR ST", 
+        "Routes": "N10, N17, N9", 
+        "StopNo": 51004, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sat, January 07, 2023 at 12:28 AM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.281229, 
+        "lng": -123.044631
+      }, 
+      "id": 50959, 
+      "location": "WB E HASTINGS ST FS RENFREW ST, VANCOUVER", 
+      "name": "WB E HASTINGS ST FS RENFREW ST", 
+      "raw": {
+        "AtStreet": "RENFREW ST", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.281229, 
+        "Longitude": -123.044631, 
+        "Name": "WB E HASTINGS ST FS RENFREW ST", 
+        "OnStreet": "E HASTINGS ST", 
+        "Routes": "N35, R5", 
+        "StopNo": 50959, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Fri, January 06, 2023 at 09:46 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.238723, 
+        "lng": -123.031266
+      }, 
+      "id": 59664, 
+      "location": "JOYCE STN BAY 7, VANCOUVER", 
+      "name": "JOYCE STN BAY 7", 
+      "raw": {
+        "AtStreet": "BAY 7", 
+        "BayNo": "7", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.238723, 
+        "Longitude": -123.031266, 
+        "Name": "JOYCE STN BAY 7", 
+        "OnStreet": "JOYCE STN", 
+        "Routes": "027", 
+        "StopNo": 59664, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Fri, January 06, 2023 at 05:44 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.232781, 
+        "lng": -123.090946
+      }, 
+      "id": 61503, 
+      "location": "EB E 41 AVE NS FRASER ST, VANCOUVER", 
+      "name": "EB E 41 AVE NS FRASER ST", 
+      "raw": {
+        "AtStreet": "FRASER ST", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.232781, 
+        "Longitude": -123.090946, 
+        "Name": "EB E 41 AVE NS FRASER ST", 
+        "OnStreet": "E 41 AVE", 
+        "Routes": "R4", 
+        "StopNo": 61503, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Fri, January 06, 2023 at 05:20 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.22126, 
+        "lng": -123.090756
+      }, 
+      "id": 50824, 
+      "location": "NB FRASER ST FS E 54 AVE, VANCOUVER", 
+      "name": "NB FRASER ST FS E 54 AVE", 
+      "raw": {
+        "AtStreet": "E 54 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.22126, 
+        "Longitude": -123.090756, 
+        "Name": "NB FRASER ST FS E 54 AVE", 
+        "OnStreet": "FRASER ST", 
+        "Routes": "008, N8", 
+        "StopNo": 50824, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Fri, January 06, 2023 at 04:33 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.218788, 
+        "lng": -123.10174
+      }, 
+      "id": 50147, 
+      "location": "NB MAIN ST FS E 57 AVE, VANCOUVER", 
+      "name": "NB MAIN ST FS E 57 AVE", 
+      "raw": {
+        "AtStreet": "E 57 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.218788, 
+        "Longitude": -123.10174, 
+        "Name": "NB MAIN ST FS E 57 AVE", 
+        "OnStreet": "MAIN ST", 
+        "Routes": "003", 
+        "StopNo": 50147, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, January 01, 2023 at 03:04 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.23344, 
+        "lng": -123.116867
+      }, 
+      "id": 50136, 
+      "location": "OAKRIDGE-41ST AVE STN BAY 2, VANCOUVER", 
+      "name": "OAKRIDGE-41ST AVE STN BAY 2", 
+      "raw": {
+        "AtStreet": "BAY 2", 
+        "BayNo": "2", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.23344, 
+        "Longitude": -123.116867, 
+        "Name": "OAKRIDGE-41ST AVE STN BAY 2", 
+        "OnStreet": "OAKRIDGE-41ST AVE STN", 
+        "Routes": "R4", 
+        "StopNo": 50136, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, December 25, 2022 at 04:12 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.225975, 
+        "lng": -123.10147
+      }, 
+      "id": 50151, 
+      "location": "NB MAIN ST FS E 49 AVE, VANCOUVER", 
+      "name": "NB MAIN ST FS E 49 AVE", 
+      "raw": {
+        "AtStreet": "E 49 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.225975, 
+        "Longitude": -123.10147, 
+        "Name": "NB MAIN ST FS E 49 AVE", 
+        "OnStreet": "MAIN ST", 
+        "Routes": "003", 
+        "StopNo": 50151, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Sun, December 25, 2022 at 03:23 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.270207, 
+        "lng": -123.069755
+      }, 
+      "id": 51240, 
+      "location": "SB COMMERCIAL DR FS GRAVELEY ST, VANCOUVER", 
+      "name": "SB COMMERCIAL DR FS GRAVELEY ST", 
+      "raw": {
+        "AtStreet": "GRAVELEY ST", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.270207, 
+        "Longitude": -123.069755, 
+        "Name": "SB COMMERCIAL DR FS GRAVELEY ST", 
+        "OnStreet": "COMMERCIAL DR", 
+        "Routes": "020, N20", 
+        "StopNo": 51240, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Wed, December 21, 2022 at 10:48 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.225701, 
+        "lng": -123.077098
+      }, 
+      "id": 51332, 
+      "location": "NB KNIGHT ST FS E 49 AVE, VANCOUVER", 
+      "name": "NB KNIGHT ST FS E 49 AVE", 
+      "raw": {
+        "AtStreet": "E 49 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.225701, 
+        "Longitude": -123.077098, 
+        "Name": "NB KNIGHT ST FS E 49 AVE", 
+        "OnStreet": "KNIGHT ST", 
+        "Routes": "022", 
+        "StopNo": 51332, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Wed, December 21, 2022 at 06:46 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.252395, 
+        "lng": -123.101095
+      }, 
+      "id": 50244, 
+      "location": "SB MAIN ST FS E 20 AVE, VANCOUVER", 
+      "name": "SB MAIN ST FS E 20 AVE", 
+      "raw": {
+        "AtStreet": "E 20 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.252395, 
+        "Longitude": -123.101095, 
+        "Name": "SB MAIN ST FS E 20 AVE", 
+        "OnStreet": "MAIN ST", 
+        "Routes": "003", 
+        "StopNo": 50244, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Fri, December 16, 2022 at 07:19 PM", 
+    "type": "bus"
+  }, 
+  {
+    "info": {
+      "coordinates": {
+        "lat": 49.223638, 
+        "lng": -123.101593
+      }, 
+      "id": 50150, 
+      "location": "NB MAIN ST NS E 51 AVE, VANCOUVER", 
+      "name": "NB MAIN ST NS E 51 AVE", 
+      "raw": {
+        "AtStreet": "E 51 AVE", 
+        "BayNo": "N", 
+        "City": "VANCOUVER", 
+        "Distance": -1, 
+        "Latitude": 49.223638, 
+        "Longitude": -123.101593, 
+        "Name": "NB MAIN ST NS E 51 AVE", 
+        "OnStreet": "MAIN ST", 
+        "Routes": "003", 
+        "StopNo": 50150, 
+        "WheelchairAccess": 1
+      }
+    }, 
+    "timestamp": "Fri, December 16, 2022 at 05:39 PM", 
+    "type": "bus"
+  }
+]
